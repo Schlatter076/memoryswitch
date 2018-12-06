@@ -1,0 +1,4 @@
+十二月 06, 2018 9:36:43 上午 loyer.client.NL3BDataView <init>
+信息: 当前测试机种： NL-3B记忆开关.
+十二月 06, 2018 9:37:27 上午 loyer.client.NL3BDataView close
+严重: null

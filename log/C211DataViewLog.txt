@@ -1,0 +1,4 @@
+十二月 06, 2018 9:34:04 上午 loyer.client.C211DataView <init>
+信息: 测试机种为： C211记忆开关.
+十二月 06, 2018 9:34:11 上午 loyer.client.C211DataView close
+严重: null

@@ -1,0 +1,8 @@
+十二月 06, 2018 9:36:47 上午 jvisa.JVisa openInstrument
+信息: Open instrument USB0::0x1AB1::0x09C4::DM3R194802656::INSTR.
+十二月 06, 2018 9:36:47 上午 jvisa.JVisaStatus printStatusDescription
+严重: viStatus = 0xFFFFFFFFBFFF0011
+十二月 06, 2018 9:36:47 上午 jvisa.JVisaStatus printStatusDescription
+严重: VISA status 0xFFFFFFFFBFFF0011: λ����Ϣ�����ϵͳ�в������豸����Դ��
+十二月 06, 2018 9:36:47 上午 jvisa.JVisa openInstrument
+严重: Could not open session for USB0::0x1AB1::0x09C4::DM3R194802656::INSTR.
